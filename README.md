@@ -1,5 +1,6 @@
 <h2 align="left">Ola, uso só meu pseudônimo na internet. Meu hobby é Segurança da informação.</h2>
-
+<h2 align="left">Idade: 14y</h2>
+<h2 align="left">Programador</h2>
 ###
 
 <img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"  />
